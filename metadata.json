@@ -18,5 +18,8 @@
         "programming-calling-functions"
     ],
     "related": [
+    ],
+    "python_packages": [
+        "scipy"
     ]
 }
